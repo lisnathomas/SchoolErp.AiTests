@@ -4,7 +4,7 @@
 
 End-to-end Playwright tests for [School ERP](https://github.com/coderaticebear/school_erp), a Laravel school management web app with four roles (admin, teacher, student, parent). An AI bot turns user stories into runnable BDD feature files.
 
-The School ERP application was built by [author's name]. This repository contains the test automation and the AI bot, which I built.
+The School ERP application was built by Richu Thankachan - (https://github.com/coderaticebear/school_erp/). This repository contains the test automation and the AI bot, which I built.
 
 **Stack:** C# / .NET 8 · Playwright for .NET · Reqnroll (successor to SpecFlow) · NUnit · Claude API
 
@@ -96,9 +96,3 @@ Settings are in `featurebot.json`; the same bot runs the OpenMRS project too.
 - **Review AI output:** the bot guarantees the steps exist, not that the scenarios match the story perfectly.
 
 ---
-
-## Next stories
-
-- [ ] **US-002 Role-based access:** a teacher, student or parent can't open admin pages, and each role only sees its own menu
-- [ ] **US-003 Logout**
-- [ ] **CI:** run the suite with GitHub Actions on every push
