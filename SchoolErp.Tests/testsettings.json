@@ -1,0 +1,10 @@
+{
+  "baseUrl": "http://localhost",
+  "demoPassword": "password",
+
+  "headed": true,
+  "slowMoMs": 600,
+  "pauseAtEndMs": 2000,
+  "stepCaptions": true,
+  "recordTrace": true
+}

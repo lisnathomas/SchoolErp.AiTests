@@ -1,0 +1,6 @@
+{
+  "appName": "School ERP",
+  "appDescription": "School ERP is a Laravel school management web app with four roles: admin, teacher, student and parent. Each role has its own dashboard and permissions.",
+  "testProjectDir": "SchoolErp.Tests",
+  "storiesDir": "stories"
+}
