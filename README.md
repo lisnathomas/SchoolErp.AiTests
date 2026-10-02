@@ -96,3 +96,7 @@ Settings are in `featurebot.json`; the same bot runs the OpenMRS project too.
 - **Review AI output:** the bot guarantees the steps exist, not that the scenarios match the story perfectly.
 
 ---
+
+   ## See it run
+
+    - [Sample test run report](https://school-erp-ai-test-automation-docs.vercel.app/sample-run/report.html): every scenario with its captioned video and trace
